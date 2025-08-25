@@ -1,4 +1,4 @@
 git add .
-git commit -m "cahier des charges complet"
+git commit -m "initialisation du backend"
 git push github
 git push gitea
