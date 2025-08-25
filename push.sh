@@ -1,4 +1,4 @@
 git add .
-git commit -m ".gitignore complet pour un projet java/angular"
+git commit -m "cahier des charges complet"
 git push github
 git push gitea
