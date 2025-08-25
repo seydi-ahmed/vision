@@ -1,6 +1,4 @@
-# Vision
 
-Construire SaaS multi‑tenant de gestion de projets & facturation (Projects, Tasks, Time‑Tracking, Invoicing, Payments, Notifications), production‑ready. L’objectif est d’exercer toutes les compétences full‑stack Angular/Java (Spring Boot).
 
 ---
 
