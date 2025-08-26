@@ -1,4 +1,4 @@
 git add .
-git commit -m "Role au nombre de 3: Owner, Gérant, Visiteur"
+git commit -m "Auth Login Register"
 git push github
 git push gitea
