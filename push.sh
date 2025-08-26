@@ -1,4 +1,4 @@
 git add .
-git commit -m "initialisation du backend"
+git commit -m "produuit et quincaillerie"
 git push github
 git push gitea
